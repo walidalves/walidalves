@@ -4,10 +4,10 @@
 - 🔭 Atualmente estou buscando uma oportunidade no mercado de QA e Testes de Software
 - 🌱 Estou aprofundando meu conhecimento em automação de testes em Selenium, e o próximo passo será automação de testes em Cypress e em CI/CD.
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/walidalves">
-  <img display: flex height="180em" src="https://github-readme-stats.vercel.app/api?username=walidalves&count_private=trues&show_icons=true&theme=vision-friendly-dark"/>
-  <img display: flex height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidalves&layout=compact&include_all_commits=true&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walidalves&count_private=trues&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidalves&layout=compact&include_all_commits=true&theme=vision-friendly-dark"/>
 </div>
   
 <div align="center">
@@ -19,7 +19,6 @@
   <img align="center" alt="Walid-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Walid-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Walid-Vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
-
   <img align="center" alt="Walid-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img align="center" alt="Walid-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />  
   <img align="center" alt="Walid-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
