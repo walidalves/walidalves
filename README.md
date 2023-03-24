@@ -4,10 +4,10 @@
 - 🔭 Atualmente estou buscando uma oportunidade no mercado de QA e Testes de Software
 - 🌱 Estou aprofundando meu conhecimento em automação de testes em Selenium, e o próximo passo será automação de testes em Cypress e em CI/CD.
 
-<div style="display: inline_block" align="center">
+<div align="center">
   <a href="https://github.com/walidalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walidalves&count_private=trues&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidalves&layout=compact&include_all_commits=true&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidalves&layout=compact&langs_count=6&include_all_commits=true&theme=vision-friendly-dark"/>
 </div>
   
 <div align="center">
