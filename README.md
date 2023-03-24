@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/walidalves">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=walidalves&count_private=trues&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="180em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=walidalves&layout=compact&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walidalves&count_private=trues&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidalves&layout=compact&include_all_commits=true&theme=vision-friendly-dark"/>
 </div>
   
 <div align="center">
@@ -27,7 +27,7 @@
 </div> 
   
 
-  ##
+##
 
 <div> 
   <a href="https://www.linkedin.com/in/walid-arnous-alves-b5128927" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
