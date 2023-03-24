@@ -11,7 +11,7 @@
 </div>
   
 <div align="center">
-    <img align="center" alt="Walid-pic" height="110" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1088876234068459700/1088881234878402651/mary-one-piece.gif">
+    <img align="center" alt="Walid-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1088876234068459700/1088881234878402651/mary-one-piece.gif">
 </div>
 
 <div style="display: inline_block" align="center"><br>
