@@ -2,7 +2,7 @@
 
 - 😁 Me chamo Walid.
 - 🔭 Atualmente estou buscando uma oportunidade no mercado de QA e Testes de Software.
-- 🌱 Estou aprofundando meu conhecimento em automação de testes em Ruby, Cypress e Selenium. Inicio para colocar os testes para rodar em CI/CD.
+- 🌱 Estou aprofundando meu conhecimento em automação de testes em Java, Ruby, Cypress e Selenium. Inicio para colocar os testes para rodar em CI/CD.
 
 <div align="center">
   <a href="https://github.com/walidalves">
